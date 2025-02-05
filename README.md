@@ -1,1 +1,1 @@
-These are projects that I most likely did in college while I was learning how to code in python. Some of them might be personal projects that I worked on in my free time. Enjoy!
+These are projects that I most likely did in college while I was learning how to code in python. Do not copy the path of the code as it does not work. It is for viewing purposes only! Some of them might be personal projects that I worked on in my free time. Enjoy!
